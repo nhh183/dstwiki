@@ -1,0 +1,1 @@
+{"format":"dstjs-web-animation","version":1,"atlas":{"file":"atlas.webp","width":512,"height":512},"sprites":{"a5c433a7:0":{"x":2,"y":2,"width":216,"height":376,"originX":113.99992418289185,"originY":328.9998779296875}},"animations":{"idle":{"frameRate":40,"duration":0.025,"frames":[{"elements":[{"sprite":"a5c433a7:0","transform":[1,0,0,1,0,0],"z":-5}]}]}}}

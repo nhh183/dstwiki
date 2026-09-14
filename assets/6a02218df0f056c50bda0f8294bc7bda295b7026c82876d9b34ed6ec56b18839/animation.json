@@ -1,0 +1,1 @@
+{"format":"dstjs-web-animation","version":1,"atlas":{"file":"atlas.webp","width":113,"height":166},"sprites":{"treasure-chest-potion":{"x":0,"y":0,"width":113,"height":166,"originX":56.5,"originY":83}},"animations":{"idle4":{"frameRate":30,"duration":0.03333333333333333,"frames":[{"elements":[{"sprite":"treasure-chest-potion","transform":[1,0,0,1,0,0],"z":0}]}]}}}

@@ -1,0 +1,1 @@
+{"format":"dstjs-web-animation","sprites":{"chiya:0":{"originY":327.5,"width":492,"y":0,"originX":246,"x":0,"height":655}},"version":1,"animations":{"idle":{"duration":1,"frames":[{"elements":[{"transform":[1,0,0,1,0,0],"sprite":"chiya:0","z":-5}]}],"frameRate":1}},"atlas":{"width":492,"file":"atlas.webp","height":655}}
